@@ -1,11 +1,15 @@
 # PyBlkSim
 An Open-Source Model Based Simulator for Discrete-Time Simulations
 
-## Source Code 
-Refer to ./pyblksim
+- **Source Code**
+  - Refer to `./pyblksim`
 
-## Installation
-PyBlkSim is managed in Python Package Index (PyPI). Install using the following command, $pip install pyblksim
+- **Installation**
+  - PyBlkSim is available on the Python Package Index (PyPI).
+  - Install using the following command:
+    ```bash
+    $ pip install pyblksim
+    ```
 
 # Examples
 
